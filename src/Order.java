@@ -1,11 +1,9 @@
 //////////////////////////////////////////////////////////////////////
 //Main Class File:	Restaurant.java
-//Files: 			Order.java
-//Semester: 		CIS 263-001 Spring 2021
+//Files: 		Order.java
 //
-//Author: 			Meryem Selicioglu
-//Email: 			meryemselici2000@gmail.com
-//Instructor:		Micheal Henson
+//Author: 		Meryem Selicioglu
+//Email: 		meryemselici2000@gmail.com
 //////////////////////////////////////////////////////////////////////
 
 
