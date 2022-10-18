@@ -1,11 +1,9 @@
-//Title: 		Course Project - Meryem's Restaurant
+//Title: 		Meryem's Restaurant
 //Files: 		Restaurant.java, Order.java, Menu.java, MenuItem.java, 
 //       		ItemMenu.java, Menu.txt, BurgersMenu.java, DrinksMenu.txt, SidesMenu.txt
-//Semester: 	CIS 263-001 Spring 2021
 //
 //Author: 		Meryem Selicioglu
 //Email: 		meryemselici2000@gmail.com
-//Instructor:	Micheal Henson
 
 
 
